@@ -1,2 +1,2 @@
-# gnome-conquest-pygame
-Gnome Conquest but made with python Pygame
+## Gnome Conquest: Pygame Edition
+Gnome conquest made with pygame.
