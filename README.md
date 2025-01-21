@@ -5,3 +5,4 @@ Gnome conquest made with pygame.
 - [ ] Better art
 - [ ] Sounds
 - [ ] Different game modes
+- [ ] Option to import images and place them on tiles
