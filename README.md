@@ -8,3 +8,4 @@ Gnome conquest made with pygame.
 - [ ] Option to import images and place them on tiles
 - [ ] Stylized art direction (Frame the game with graphics of an old terminal)
 - [ ] Arcade style high score screen
+- [ ] Level maker tool
